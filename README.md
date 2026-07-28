@@ -1,6 +1,6 @@
 ```md
 Hello, I'm Suyash.  
-Pre-final Year Computer Science Engineering student at VIT Vellore.  
+Prefinal Year Computer Science Engineering student at VIT Vellore.  
 
 Technical Skills:
 - Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, React Native.  
