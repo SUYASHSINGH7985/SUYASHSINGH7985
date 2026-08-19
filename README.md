@@ -1,6 +1,5 @@
 ```md
-Hello, I'm Suyash.  
-Prefinal Year Computer Science Engineering student at VIT Vellore.  
+Hello, I'm Suyash.    
 
 Tech Stack:
 - Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, React Native.  
